@@ -1,4 +1,6 @@
-### Hi there 👋
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
 
 <!--
 **jzeki/jzeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
