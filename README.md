@@ -1,8 +1,8 @@
 
 Hi, Im Zeki Jusufoski <br>
 Check out my latest articels on linkedin <br>
-:
-<a href="[url](https://www.linkedin.com/pulse/spring-framework-cloud-native-how-empowers-zeki-jusufoski-255yf%3FtrackingId=Wj%252BuLvxSrxBO1cLuXUDM%252FQ%253D%253D/?trackingId=Wj%2BuLvxSrxBO1cLuXUDM%2FQ%3D%3D)">Spring Framework & Cloud Native: How Spring Empowers Cloud Native Development</a>
+
+[Spring Framework & Cloud Native: How Spring Empowers Cloud Native Development]([https://link-url-here.org](https://www.linkedin.com/pulse/spring-framework-cloud-native-how-empowers-zeki-jusufoski-255yf%3FtrackingId=Wj%252BuLvxSrxBO1cLuXUDM%252FQ%253D%253D/?trackingId=Wj%2BuLvxSrxBO1cLuXUDM%2FQ%3D%3D))
 <a href="url">link text</a>
 <a href="url">link text</a>
 
