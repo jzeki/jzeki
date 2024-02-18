@@ -4,7 +4,7 @@ Check out my latest articels on linkedin <br>
 
 <a target="_blank" href="https://www.linkedin.com/pulse/spring-framework-cloud-native-how-empowers-zeki-jusufoski-255yf%3FtrackingId=Wj%252BuLvxSrxBO1cLuXUDM%252FQ%253D%253D/?trackingId=Wj%2BuLvxSrxBO1cLuXUDM%2FQ%3D%3D">Spring Framework & Cloud Native: How Spring Empowers Cloud Native Development</a>
 <br>
-<a target="_blank" href="https://www.linkedin.com/pulse/spring-framework-cloud-native-how-empowers-zeki-jusufoski-255yf%3FtrackingId=Wj%252BuLvxSrxBO1cLuXUDM%252FQ%253D%253D/?trackingId=Wj%2BuLvxSrxBO1cLuXUDM%2FQ%3D%3D">Spring Framework & Cloud Native: How Spring Empowers Cloud Native Development</a>
+<a target="_blank" href="https://www.linkedin.com/pulse/cloud-native-computing-foundation-overview-zeki-jusufoski-qo2ge%3FtrackingId=fHXe1V5CVpDjR%252FkDtqbOvw%253D%253D/?trackingId=fHXe1V5CVpDjR%2FkDtqbOvw%3D%3D">Cloud Native Computing Foundation: An Overview</a>
 
 <a href="url">link text</a>
 
