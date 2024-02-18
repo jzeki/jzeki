@@ -1,9 +1,10 @@
 
 Hi, Im Zeki Jusufoski <br>
-[arbitrary case-insensitive reference text]:
-https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+Check out my latest articels on linkedin <br>
+:
+<a href="[url](https://www.linkedin.com/pulse/spring-framework-cloud-native-how-empowers-zeki-jusufoski-255yf%3FtrackingId=Wj%252BuLvxSrxBO1cLuXUDM%252FQ%253D%253D/?trackingId=Wj%2BuLvxSrxBO1cLuXUDM%2FQ%3D%3D)">Spring Framework & Cloud Native: How Spring Empowers Cloud Native Development</a>
+<a href="url">link text</a>
+<a href="url">link text</a>
 
 <!--
 **jzeki/jzeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
